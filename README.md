@@ -16,3 +16,5 @@ https://www.bilibili.com/video/av112961951630402/
 *ex所有的值的单位都是公分(CM)*
 
 **再不填入Y值时，会使用简易公式来计算(但也无法调节)**
+
+![](https://i.imgur.com/3D7g2g4.png)
